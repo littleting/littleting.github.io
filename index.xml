@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ting Jarusriboonchai Website</title>
-    <link>http://www.pradthana.com/</link>
+    <link>https://www.pradthana.com/</link>
     <description>Recent content on Ting Jarusriboonchai Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 16:50:59 +0700</lastBuildDate><atom:link href="http://www.pradthana.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 16:50:59 +0700</lastBuildDate><atom:link href="https://www.pradthana.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>K&#43; and K&#43; Market</title>
-      <link>http://www.pradthana.com/projects/kplus/</link>
+      <link>https://www.pradthana.com/projects/kplus/</link>
       <pubDate>Wed, 28 Jul 2021 18:10:14 +0700</pubDate>
       
-      <guid>http://www.pradthana.com/projects/kplus/</guid>
+      <guid>https://www.pradthana.com/projects/kplus/</guid>
       <description>We are responsible for conducting usability testings before lauching a new version of both K+ and K+ Market.
 Ideally, face-to-face usability is more preferrable. However, due to covid-19 situation, we conducted our usability testings remotely. To do so, we built prototypes for both K+ and K+ Market using Figma. Then, sent over the protytpe link to our participants where they share their screen as they are interacting with the prototype according to tasks we assigned to them.</description>
     </item>
     
     <item>
       <title>Eatable</title>
-      <link>http://www.pradthana.com/projects/eatable/</link>
+      <link>https://www.pradthana.com/projects/eatable/</link>
       <pubDate>Wed, 28 Jul 2021 17:56:39 +0700</pubDate>
       
-      <guid>http://www.pradthana.com/projects/eatable/</guid>
+      <guid>https://www.pradthana.com/projects/eatable/</guid>
       <description>Eatable is an ordering platform for restaurants. Eatable allows digital dine-in ordering, makie it easier for customers to order their food wihtout having to wait for a waiter. Eatable also offers order managerment for restaurants, supporting dine-in, take-away, and delivery.
 My work was to find ways to make Eatable better for both restaurants and restaurant customers. To do so, we conducted UX research with both restaurants and customers.
 Research with restuarants We observed and interviewed with restaurant owners to understand the whole process of their operations.</description>
@@ -30,20 +30,20 @@ Research with restuarants We observed and interviewed with restaurant owners to 
     
     <item>
       <title>Always with me</title>
-      <link>http://www.pradthana.com/projects/wearable_2/</link>
+      <link>https://www.pradthana.com/projects/wearable_2/</link>
       <pubDate>Wed, 28 Jul 2021 18:54:12 +0700</pubDate>
       
-      <guid>http://www.pradthana.com/projects/wearable_2/</guid>
+      <guid>https://www.pradthana.com/projects/wearable_2/</guid>
       <description>Simple and low bandwidth communications on computers has been found to promate intinacy between couple, what if such minimual communications are packed in forms of wearables. This work explors this concept further through a co-design workshop, lo-fidelity proprototyes, and a diary study.
 Co-design workshops In the workshops, we invited 16 participants who were at the moment in the middle of long-distant relationship to explore potential of wearable devices in facilitating interactions and communications with their partner.</description>
     </item>
     
     <item>
       <title>Linn Dress</title>
-      <link>http://www.pradthana.com/projects/linndress/</link>
+      <link>https://www.pradthana.com/projects/linndress/</link>
       <pubDate>Wed, 28 Jul 2021 18:34:19 +0700</pubDate>
       
-      <guid>http://www.pradthana.com/projects/linndress/</guid>
+      <guid>https://www.pradthana.com/projects/linndress/</guid>
       <description>Linn dress integrated wearable displays with controllable transparency, as a technique to control body exposure and alter the look and feel of the dress. Linn Dress presents a novel way to use wearable displays as a cover of the body, rather than the more typical wearable display applications &amp;ndash; an embellishment or information visualization channel.
 Linn Dress has cut out areas that the wearers can dynamically adjust the transparency of ,revealing or convering the underlying body.</description>
     </item>
