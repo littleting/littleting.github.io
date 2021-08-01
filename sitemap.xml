@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>http://www.pradthana.com/projects/</loc>
     <lastmod>2021-07-28T18:54:12+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/projects/kplus/</loc>
+    <loc>http://www.pradthana.com/projects/kplus/</loc>
     <lastmod>2021-07-28T18:10:14+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/projects/eatable/</loc>
+    <loc>http://www.pradthana.com/projects/eatable/</loc>
     <lastmod>2021-07-28T17:56:39+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/projects/wearable_2/</loc>
+    <loc>http://www.pradthana.com/projects/wearable_2/</loc>
     <lastmod>2021-07-28T18:54:12+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://www.pradthana.com/blog/</loc>
     <lastmod>2021-08-01T16:50:59+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/projects/linndress/</loc>
+    <loc>http://www.pradthana.com/projects/linndress/</loc>
     <lastmod>2021-07-28T18:34:19+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://www.pradthana.com/</loc>
     <lastmod>2021-08-01T16:50:59+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://www.pradthana.com/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://www.pradthana.com/tags/</loc>
   </url>
 </urlset>
